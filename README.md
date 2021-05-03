@@ -103,3 +103,12 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+### Github pages
+- settings
+- see Github pages link
+https://mujirin.github.io/fcc-handwashing/
+
+### Source
+Source lesson from video on Youtube with title:
+
+    "Learn the Svelte Javascript Framework-Full Cource"
